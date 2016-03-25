@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>firstName</key>
+		<string>Jack </string>
+		<key>lastName</key>
+		<string>Nicholson</string>
+		<key>Age</key>
+		<integer>60</integer>
+		<key>URL</key>
+		<string>http://ia.media-imdb.com/images/M/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1._SY209_CR5,0,140,209_.jpg</string>
+		<key>description</key>
+		<string>Jack Nicholson, an American actor, producer, screen-writer and director, is a three-time Academy Award winner and twelve-time nominee. Nicholson is also notable for being one of two actors - the other being Michael Caine - who have received Oscar nods in every decade from sixties through the naughts.</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Ralph </string>
+		<key>lastName</key>
+		<string>Fiennes</string>
+		<key>Age</key>
+		<integer>50</integer>
+		<key>URL</key>
+		<string>http://ia.media-imdb.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1._SY209_CR10,0,140,209_.jpg</string>
+		<key>description</key>
+		<string>Ralph Nathaniel Twisleton-Wykeham-Fiennes was born on December 22, 1962 in Suffolk, England, to Jennifer Anne Mary Alleyne (Lash), a novelist, and Mark Fiennes, a photographer. He is the eldest of six children. Four of his siblings are also in the arts: Martha Fiennes, a director; Magnus Fiennes, a musician;</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Robert </string>
+		<key>lastName</key>
+		<string>De Niro</string>
+		<key>Age</key>
+		<integer>67</integer>
+		<key>URL</key>
+		<string>http://ia.media-imdb.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1._SY209_CR9,0,140,209_.jpg</string>
+		<key>description</key>
+		<string>Robert De Niro, thought of as one of the greatest actors of all time, was born in Greenwich Village, Manhattan, New York City, to artists Virginia (Admiral) and Robert De Niro Sr. His paternal grandfather was of Italian descent, and his other ancestry is Irish, German, Dutch, English, and French</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Al </string>
+		<key>lastName</key>
+		<string>Pacino</string>
+		<key>Age</key>
+		<integer>72</integer>
+		<key>URL</key>
+		<string>http://ia.media-imdb.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1._SX140_CR0,0,140,209_.jpg</string>
+		<key>description</key>
+		<string>One of the greatest actors in all of film history, Al Pacino established himself during one of film&apos;s greatest decades, the 1970s, and has become an enduring and iconic figure in the world of American movies. Pacino was born on April 25, 1940, in the Bronx, New York, to an Italian-American family.</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Brad</string>
+		<key>lastName</key>
+		<string>Pitt</string>
+		<key>Age</key>
+		<integer>52</integer>
+		<key>URL</key>
+		<string>http://ia.media-imdb.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1._SX140_CR0,0,140,209_.jpg</string>
+		<key>description</key>
+		<string>An actor and producer known as much for his versatility as he is for his handsome face, Golden Globe-winner Brad Pitt&apos;s most widely recognized role may be Tyler Durden in Fight Club. But his portrayals of Billy Beane in Moneyball, and Rusty Ryan in the remake of Ocean&apos;s Eleven and its sequels, also loom large in his filmography...</string>
+	</dict>
+</array>
+</plist>
